@@ -1,0 +1,32 @@
+.widgets{
+    flex:0.3
+
+}
+.widgetsInput{
+    margin-top: 5px;
+    margin-left: 8px;
+    display: flex;
+    max-height: 50px;
+    background-color: rgb(227, 225, 225);
+    border-radius: 20px;
+}
+.SearchIcon{
+    padding :10px;
+    color: rgb(159, 156, 156);
+}
+.widgetsInput>input{
+    border: none;
+    background-color: rgb(227, 225, 225);
+    
+}
+.widgetsContainer{
+    margin-top:10px ;
+    margin-left: 8px;
+    padding: 15px;
+    border-radius: 20px;
+    background-color: rgb(227, 225, 225);
+    
+}
+.widgetsContainer>h2{
+    font-weight: 700;
+}
